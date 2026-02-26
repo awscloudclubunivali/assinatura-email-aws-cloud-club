@@ -87,8 +87,4 @@ Para adaptar a assinatura para outro membro do clube, edite as seguintes linhas 
 
 <div align="center">
 
-Feito com ☁️ pelo **AWS Cloud Club Univali**
-
 </div>
-# assinatura-email-aws-cloud-club
-# assinatura-email-aws-cloud-club
