@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://aws-cloud-club-univali.s3.sa-east-1.amazonaws.com/imagens/logo-mascote.png" width="120" alt="AWS Cloud Club Mascote"/>
-
 # Assinatura de Email — AWS Cloud Club Univali
 
 Template HTML profissional de assinatura de email para os membros e capitão do **AWS Cloud Club Univali**.
